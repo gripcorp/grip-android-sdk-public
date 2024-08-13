@@ -16,7 +16,7 @@
 build.gradle(App)
 ```kt
 dependencies {
-    implementation("io.github.gripcorp:grip-android:1.0.0")
+    implementation("io.github.gripcorp:grip-android:1.2.0")
 }
 ```
 settings.gradle
